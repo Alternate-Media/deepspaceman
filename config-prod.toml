@@ -1,9 +1,9 @@
-baseURL = "https://hugo-theme-massively.netlify.com/"
+baseURL = "https://alternate-media.github.io/deep-space-man/"
 languageCode = "en-us"
 title = "Deep Space Loneliness"
-subtitle = "A Saga through space, time & emotions "
-theme = "massively"
-paginate = 5
+subtitle = "A saga traversing space, time & a man's fallable emotion"
+theme = "air-dsl"
+Copyright = "MIT License"
 
 googleanalytics = ""
 
@@ -17,6 +17,8 @@ googleanalytics = ""
 [languages]
 [languages.en]
   languageName = "English"
+  title = "Deep Space Exploration"
+  subtitle = "A saga traversing space, time & a man's fallable emotion"
 [languages.es]
   languageName = "Español"
   title = "Massively - Versión Español"
