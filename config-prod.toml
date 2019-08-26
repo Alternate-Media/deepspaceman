@@ -1,7 +1,7 @@
 baseURL = "https://alternate-media.github.io/deep-space-man/"
 languageCode = "en-us"
-title = "Deep Space Loneliness"
-subtitle = "A saga traversing space, time & a man's fallable emotion"
+title = "Deep Space Man"
+subtitle = "One man's saga traversing space, time & his fallable emotions"
 theme = "air-dsl"
 Copyright = "MIT License"
 
@@ -13,12 +13,17 @@ googleanalytics = ""
   # set to change date format
   dateFormat = "2.1.2006"
 
+  # audio
+  enabled_audio = true
+  enabled_introloop = true
+  url_introaudio_files = [ "/audio/Enceladus Hiss audio 256 kbps.mp3", "/audio/584791main_spookysaturn.mp3"]
 
 [languages]
 [languages.en]
   languageName = "English"
-  title = "Deep Space Exploration"
-  subtitle = "A saga traversing space, time & a man's fallable emotion"
+  title = "Deep Space Man"
+  subtitle = "One man's saga traversing space, time & his fallable emotions"
 [languages.es]
   languageName = "Español"
-  title = "Massively - Versión Español"
+  title = "Hombre del espacio profundo - en Español"
+  subtitle = "La saga de un hombre atraviesa el espacio, el tiempo y sus emociones vacilantes"
