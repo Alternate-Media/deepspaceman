@@ -1,0 +1,24 @@
+baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "Deep Space Loneliness"
+subtitle = "A saga traversing space, time & a man's fallable emotion"
+theme = "air-dsl"
+Copyright = "MIT License"
+
+googleanalytics = ""
+
+[params]
+  # set below parameter to define a favicon
+  favicon = "favicon.ico"
+  # set to change date format
+  dateFormat = "2.1.2006"
+
+
+[languages]
+[languages.en]
+  languageName = "English"
+  title = "Deep Space Exploration"
+  subtitle = "A saga traversing space, time & a man's fallable emotion"
+[languages.es]
+  languageName = "Español"
+  title = "Massively - Versión Español"
